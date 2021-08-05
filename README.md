@@ -1,17 +1,12 @@
 <h1 align="center">Hi, I'm Mueez Khan! 👋😄</h1>
-<h3 align="center">A student learning full stack and software development.</h3>
 
 - 👨‍🎓 Sophomore at Rutgers University New Brunswick
 
 - 💻 Major in Computer Science
 
-- 📚 Currently learning Python programming and React
-
-- 🚀 Working on [rutgers-esports/discord-bot](https://github.com/rutgersesports/discord-bot)
+- 📚 Currently learning Python and web development
 
 - 💬 Contact me at mueez.khan@rutgers.edu
-
-- ⚡ Fun fact: [All 8 episodes of Our Planet are on YouTube!](https://www.youtube.com/watch?v=aETNYyrqNYE&list=PL7rb3uMaYmjHqT_JUcQYCBa4nEtfDKuSa&index=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +50,7 @@
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
