@@ -4,6 +4,8 @@
 
 - 💻 Major in Computer Science
 
+- 🚀 Check out my ongoing [100 Days of Code website](https://100.mueezkhan.com/)!
+
 - 📚 Currently learning Python and web development
 
 - 💬 Contact me at mueez.khan@rutgers.edu
@@ -64,9 +66,9 @@
 <a href="https://github.com/rzmk">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzmk&layout=compact&theme=algolia" alt="Mueez's top languages"/>
 </a>
-<a href="https://github.com/rzmk/simple-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzmk&repo=simple-blog&theme=algolia" alt="simple-blog project" />
+<a href="https://github.com/rzmk/100-days-of-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzmk&repo=100-days-of-code&theme=algolia" alt="100 Days of Code" />
 </a>
 <a href="https://github.com/rutgersesports/discord-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutgersesports&repo=discord-bot&theme=algolia" alt="discord bot project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutgersesports&repo=discord-bot&theme=algolia" alt="Discord bot project" />
 </a>
