@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Mueez Khan! 👋😄</h1>
-
-- 👨‍🎓 Sophomore at Rutgers University New Brunswick
-
-- 💻 Major in Computer Science
+<h1 align="center">Hi, I'm Mueez Khan! 👋</h1>
 
 - 📚 Currently learning Python and web development
 
