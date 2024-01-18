@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mueez Khan! 👋</h1>
+# Hi, I'm Mueez Khan! 👋
 
 Developing software to solve real-world issues.
 
