@@ -2,9 +2,9 @@
 
 Developing software to solve real-world issues.
 
-- 📂 View my portfolio site at [mueezkhan.com](https://www.mueezkhan.com) and/or [blog](https://blog.mueezkhan.com)
-- 💼 Working at datHere as Data Engineer (Started Sep. 2023)
+- 📂 View my portfolio and blog at [mueezkhan.com](https://www.mueezkhan.com)
+- 💼 Working on [qsv pro](https://qsvpro.dathere.com) at datHere as Data Engineer (Sep. 2023 - Present)
   - Data Engineering Intern - datHere (Summer 2023)
   - Intern - Rearc (Summer 2022)
-- 📚 Bachelor's in Computer Science at Rutgers University (est. 2024)
-- 💬 Contact me at [mueezkhan.com/contact](https://mueezkhan.com/contact) and [Linkedin](https://linkedin.com/in/mueez-khan)
+- 📚 Bachelor's in Computer Science from Rutgers University (2020-2024)
+- 💬 Connect with me on [Linkedin](https://linkedin.com/in/mueez-khan)
