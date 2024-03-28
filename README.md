@@ -9,7 +9,7 @@ Software engineer.
 - 🎓 Bachelor's in Computer Science from Rutgers University (2020-2024)
 
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/mueez-khan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mueezcodes"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://mueezkhan.com/rss.xml"><img alt="RSS" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mueez-khan/"><img alt="LinkedIn" src="https://github.com/rzmk/rzmk/assets/30333942/9715bbf9-757d-4584-a6bd-1526aee40e48" /></a>
+  <a href="https://twitter.com/mueezcodes"><img alt="X" src="https://github.com/rzmk/rzmk/assets/30333942/633693c3-2ade-4548-b007-7b763f63bdf3" /></a>
+  <a href="https://mueezkhan.com/rss.xml"><img alt="RSS" src="https://github.com/rzmk/rzmk/assets/30333942/d0b0c62f-e554-4a3b-a231-2450fdba44fe" /></a>
 </div>
