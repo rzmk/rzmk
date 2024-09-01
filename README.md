@@ -4,7 +4,8 @@ Software engineer.
 
 - 📂 Portfolio: [mueezkhan.com](https://www.mueezkhan.com)
 - 💼 Building [qsv pro](https://qsvpro.dathere.com) and [100.dathere.com](https://100.dathere.com)
-  - Software Engineer - datHere (Sep. 2023 - Present)
+  - Principal Engineer - datHere (Sep. 2024 - Present)
+  - Software Engineer - datHere (Sep. 2023 - Aug. 2024)
   - Software Engineer Intern - datHere (Summer 2023)
   - Intern - Rearc (Summer 2022)
 - 🎓 Bachelor's in Computer Science from Rutgers University (2020-2024)
