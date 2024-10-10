@@ -12,6 +12,10 @@ Software engineer.
 - Recently working with Rust, Python, & TypeScript
 
 <div style="display: flex;">
+  <a href="https://mastodon.social/@mueezkhan"><img alt="Mastodon" src="https://github.com/user-attachments/assets/027da222-4c3c-4335-b520-f400a59d1c44" /></a>
+  <a href="https://pixelfed.social/mueezkhan"><img alt="Pixelfed" src="https://github.com/user-attachments/assets/305b6eb7-f549-4214-af03-4b2ce2df63fb" /></a>
+  <a href="https://codeberg.org/rzmk"><img alt="Codeberg" src="https://github.com/user-attachments/assets/4be10bf8-6a62-4a10-841d-c61b7cff7e8c" /></a>
   <a href="https://www.linkedin.com/in/mueez-khan/"><img alt="LinkedIn" src="https://github.com/rzmk/rzmk/assets/30333942/9715bbf9-757d-4584-a6bd-1526aee40e48" /></a>
+  <a href="https://x.com/mueezkhan_"><img alt="X" src="https://github.com/user-attachments/assets/422b7f69-ea28-4dee-9f23-17081e5494c5" /></a>
   <a href="https://mueezkhan.com/rss.xml"><img alt="RSS" src="https://github.com/rzmk/rzmk/assets/30333942/d0b0c62f-e554-4a3b-a231-2450fdba44fe" /></a>
 </div>
