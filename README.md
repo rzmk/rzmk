@@ -2,7 +2,7 @@
 
 Software engineer.
 
-- 📂 Portfolio: [mueezkhan.com](https://www.mueezkhan.com)
+- 📂 Portfolio: [mueezkhan.com](https://mueezkhan.com/?utm_source=github-readme)
 - 💼 Work Experience
   - Principal Engineer - datHere (Sep. 2024 - Present)
   - Software Engineer - datHere (Sep. 2023 - Aug. 2024)
@@ -12,7 +12,7 @@ Software engineer.
 - Typically working with Rust, Python, & TypeScript
 
 <div style="display: flex;">
-  <a href="https://www.mueezkhan.com"><img alt="Portfolio" src="https://github.com/user-attachments/assets/057c3c66-55e3-46ec-92ab-6425ed5e6c8d" /></a>
+  <a href="https://mueezkhan.com/?utm_source=github-readme"><img alt="Portfolio" src="https://github.com/user-attachments/assets/057c3c66-55e3-46ec-92ab-6425ed5e6c8d" /></a>
   <a href="https://bsky.app/profile/mueezkhan.com"><img alt="Bluesky" src="https://github.com/user-attachments/assets/76f16db6-ce23-445b-859a-f858062109bd" /></a>
   <a href="https://mastodon.social/@mueezkhan"><img alt="Mastodon" src="https://github.com/user-attachments/assets/027da222-4c3c-4335-b520-f400a59d1c44" /></a>
   <a href="https://pixelfed.social/mueezkhan"><img alt="Pixelfed" src="https://github.com/user-attachments/assets/305b6eb7-f549-4214-af03-4b2ce2df63fb" /></a>
