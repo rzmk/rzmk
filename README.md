@@ -18,6 +18,7 @@ Software engineer.
   <a href="https://www.instagram.com/mueez.was.here"><img alt="Instagram" src="https://github.com/user-attachments/assets/d5164912-ad6c-456d-9fc0-0c79ba7b07be" /></a>
   <a href="https://bsky.app/profile/mueezkhan.com"><img alt="Bluesky" src="https://github.com/user-attachments/assets/76f16db6-ce23-445b-859a-f858062109bd" /></a>
   <a href="https://mastodon.social/@mueezkhan"><img alt="Mastodon" src="https://github.com/user-attachments/assets/027da222-4c3c-4335-b520-f400a59d1c44" /></a>
+  <a href="https://share.upscrolled.com/en/user/9572fd53-33cd-42ff-9af9-7da53d0aa5a6/"><img alt="UpScrolled" src="https://github.com/user-attachments/assets/fe27d0ff-5eb7-48a8-8dd0-7f97d5d0c986" /></a>
   <a href="https://pixelfed.social/mueezkhan"><img alt="Pixelfed" src="https://github.com/user-attachments/assets/305b6eb7-f549-4214-af03-4b2ce2df63fb" /></a>
   <a href="https://codeberg.org/rzmk"><img alt="Codeberg" src="https://github.com/user-attachments/assets/4be10bf8-6a62-4a10-841d-c61b7cff7e8c" /></a>
   <a href="https://www.threads.net/@mueez.was.here"><img alt="Threads" src="https://github.com/user-attachments/assets/88794be2-688f-4fad-a2e3-9c3d4ddba97f" /></a>
