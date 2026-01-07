@@ -8,7 +8,8 @@ Software engineer.
   - Software Engineer - datHere (Sep. 2023 - Aug. 2024)
   - Software Engineer Intern - datHere (Summer 2023)
   - Intern - Rearc (Summer 2022)
-- 🎓 Bachelor's in Computer Science from Rutgers University (2020-2024)
+- 📚 Master of Science in Software Engineering from Western Governor's University (ongoing 2026, est. 2027)
+- 🎓 Bachelor of Arts in Computer Science from Rutgers University (2020-2024)
 - Typically working with Rust, Python, & TypeScript
 
 <div style="display: flex;">
